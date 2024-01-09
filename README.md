@@ -1,5 +1,4 @@
 👋 &nbsp; Hi, I’m @ascae <br />
-💻 &nbsp; I'm working at [Adeo](https://www.adeo.com/en/) as a technical leader on some great projects <br />
 👀 &nbsp; I’m interested in discovering new technologies, programing language and paradigms <br />
 🌱 &nbsp; I'm currently working on exciting projects, that are all about making other people's life easier 
 
